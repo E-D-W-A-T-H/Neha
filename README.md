@@ -1,6 +1,6 @@
 # Neha
 my progress
-my work progress in graphics:---
+# my work progress in graphics:---
     so, i started from basics theory from
 -> the anatomy of typography
 -> different type styles
@@ -26,7 +26,7 @@ my work progress in graphics:---
 
 
 
-my work progress in front end 
+# my work progress in front end 
 -> HTML basics
 ->Essential HTML 5 tags
 -> css basics....
